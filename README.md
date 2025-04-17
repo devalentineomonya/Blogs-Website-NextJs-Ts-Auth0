@@ -5,7 +5,7 @@
 ![Neon](https://img.shields.io/badge/Neon-PostgreSQL-00E59B?logo=neon)
 ![Auth0](https://img.shields.io/badge/Auth0-3.0-blueviolet?logo=auth0)
 ![Hono](https://img.shields.io/badge/Hono-4.0.10-FF4785)
-
+![Cloudinary](https://img.shields.io/badge/-cloudinary-3448C5?logo=cloudinary)
 
 A high-performance blog platform built with modern web technologies, featuring serverless PostgreSQL, secure authentication, and optimized content delivery.
 
