@@ -6,6 +6,7 @@
 ![Auth0](https://img.shields.io/badge/Auth0-3.0-blueviolet?logo=auth0)
 ![Hono](https://img.shields.io/badge/Hono-4.0.10-FF4785)
 
+
 A high-performance blog platform built with modern web technologies, featuring serverless PostgreSQL, secure authentication, and optimized content delivery.
 
 ![Blog Platform Preview](public/screenshot.png) 
@@ -23,7 +24,7 @@ A high-performance blog platform built with modern web technologies, featuring s
 ## Tech Stack
 
 ### Frontend
-- **Framework**: Next.js 14 (App Router)
+- **Framework**: Next.js 15 (App Router)
 - **Language**: TypeScript 5.3
 - **Styling**: Tailwind CSS + shadcn/ui
 - **Auth**: Auth0 Next.js SDK
